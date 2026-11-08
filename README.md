@@ -5,10 +5,12 @@ refer:
 1. https://www.mastercard.com/gateway/expertise/insights/network-tokenization-faqs.html
 
 
-# Run local agent
+# Run my local agent
 ref:
+- Github Awesome Local AI: https://github.com/msb-msb/awesome-local-ai
 - https://insiderllm.com/guides/run-first-local-llm/
 - webUI: https://insiderllm.com/guides/open-webui-setup-guide/
+- https://insiderllm.com/guides/ollama-vs-lm-studio/
 > **Ollama (native Windows, port 11434) ←→ Docker Open WebUI (frontend, port 3000)**
 ---
 ## 1. Install Ollama directly on Windows (native, NOT docker)
@@ -57,5 +59,5 @@ http://host.docker.internal:11434
 4. If you delete docker container, data is safe because we use Windows bind mount volume
 
 整体感觉：不好用，又慢又笨
-<img width="2980" height="1571" alt="image" src="https://github.com/user-attachments/assets/eba336f5-46e2-4818-84bc-b9455fdbc1e5" />
+<img width="3000" height="1814" alt="image" src="https://github.com/user-attachments/assets/91900602-d941-44e9-ad3a-42f39a303eba" />
 
